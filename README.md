@@ -1,2 +1,2 @@
 # heritage-garden-app
-Heritage Garden — Decentralized Heritage Network on Bitcoin
+Heritage Garden — Decentralized Heritage Network on Solana
