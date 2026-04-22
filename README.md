@@ -1,2 +1,2 @@
-# heritage-garden-app
-Heritage Garden — Decentralized Heritage Network on Solana
+# green-weave-app
+Green Weave — Decentralized Heritage Garden Network on Solana
