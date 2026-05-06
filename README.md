@@ -1,1 +1,1 @@
-​⚠️ NOTICE: The Green Weave UI codebase has been migrated to a new ecosystem. Please visit our new repository here: [Link tới repo greenweave-ui]
+​⚠️ NOTICE: The Green Weave UI codebase has been migrated to a new ecosystem. Please visit our new repository here: https://github.com/greenweaveglobal/greenweave-ui
